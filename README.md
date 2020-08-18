@@ -1,0 +1,1 @@
+This is a clone of a form used by mint.com to sign up new users.
